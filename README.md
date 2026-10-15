@@ -13,6 +13,7 @@ Claude, VPN и полку для файлов.
 ![Swift 5.9](https://img.shields.io/badge/Swift-5.9-F05138?logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/UI-SwiftUI%20%2B%20AppKit-0A84FF)
 ![Без зависимостей](https://img.shields.io/badge/зависимости-нет-34C759)
+![Лицензия MIT](https://img.shields.io/badge/лицензия-MIT-lightgrey)
 
 <img src="docs/screenshots/player.png" width="560" alt="Плеер в острове">
 
@@ -122,3 +123,8 @@ Helpers/      мост MediaRemote (Objective-C) и загрузчик для pe
 Resources/    Info.plist, иконка
 docs/         скриншоты
 ```
+
+## Лицензия
+
+[MIT](LICENSE) — код можно свободно использовать, менять и распространять
+при сохранении уведомления об авторских правах.
