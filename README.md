@@ -72,7 +72,7 @@ Claude, VPN и полку для файлов.
 Нужно: macOS 14 Sonoma или новее и Xcode 15+ (или Command Line Tools со Swift 5.9+).
 
 ```bash
-git clone https://github.com/<ваш-логин>/Da10bayo.git
+git clone https://github.com/dattenbayo/Da10bayo.git
 cd Da10bayo
 ./build.sh --install   # соберёт, установит в /Applications и запустит
 ```
