@@ -1,0 +1,22 @@
+# Сборка
+.build/
+build/
+DerivedData/
+*.app
+*.dSYM/
+
+# Swift Package Manager / Xcode
+.swiftpm/
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+Package.resolved
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Локальные настройки Claude Code
+.claude/

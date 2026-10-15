@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>ru</string>
+    <key>CFBundleName</key>
+    <string>Da10bayo</string>
+    <key>CFBundleDisplayName</key>
+    <string>Da10bayo</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.da10bayo.app</string>
+    <key>CFBundleExecutable</key>
+    <string>Da10bayo</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>14.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.utilities</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>Da10bayo показывает текущий трек и управляет воспроизведением в Spotify и Apple Music.</string>
+    <key>NSCalendarsFullAccessUsageDescription</key>
+    <string>Da10bayo показывает ближайшее событие и напоминает о нём за 5 минут.</string>
+    <key>NSCalendarsUsageDescription</key>
+    <string>Da10bayo показывает ближайшее событие и напоминает о нём за 5 минут.</string>
+    <key>NSBluetoothAlwaysUsageDescription</key>
+    <string>Da10bayo показывает уведомление при подключении AirPods и других Bluetooth-устройств.</string>
+</dict>
+</plist>
